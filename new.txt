@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
 hi new jj from parent repo
-=======
-hi this is before stash
->>>>>>> Stashed changes
+Second commit in squash
+This is 3rd commit 
